@@ -1,0 +1,20 @@
+{
+  "articles": [
+    {
+      "path": "blog.html",
+      "title": "Posts",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-01-29T21:06:28-05:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Hong Q",
+      "description": "My Learning journey toward a Data Scientist.\n",
+      "author": [],
+      "contents": "\r\n\r\nSection 1:\r\nSection 2:\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-01-29T21:06:29-05:00"
+    }
+  ],
+  "collections": ["posts/posts.json", "Posts/Posts.json"]
+}

@@ -1,0 +1,19 @@
+[
+  {
+    "path": "posts/2022-01-29-building-a-website-using-distill/",
+    "title": "Building a website using distill",
+    "description": "Explain how to use {distill} package in R to build this website",
+    "author": [
+      {
+        "name": "Hong Q",
+        "url": {}
+      }
+    ],
+    "date": "2022-01-29",
+    "categories": [],
+    "contents": "\r\nHere is where I will talk about building this website.\r\n\r\n\r\n\r\n",
+    "preview": "posts/2022-01-29-building-a-website-using-distill/buildwebsite.jpg",
+    "last_modified": "2022-01-29T20:43:07-05:00",
+    "input_file": {}
+  }
+]

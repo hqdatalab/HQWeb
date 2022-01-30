@@ -1,0 +1,20 @@
+---
+title: "Building a website using distill"
+description: |
+  Explain how to use {distill} package in R to build this website
+author:
+  - name: Hong Q
+date: 2022-01-29
+preview: buildwebsite.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Here is where I will talk about building this website.
+
