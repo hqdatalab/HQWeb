@@ -13,6 +13,6 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ![](hq.jpg)
 
-## Section 1:
-
-## Section 2:
+## About me:
+## Professional growth journey:
+## Personal growth journey:
